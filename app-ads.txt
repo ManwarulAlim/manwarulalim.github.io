@@ -223,4 +223,7 @@ xapads.com, 117219, RESELLER
 yeahmobi.com, 5135195, RESELLER
 zetaglobal.net, 815, RESELLER
 zmaticoo.com, 5135195, RESELLER
-zmaticoo.com, 5135704, RESELLER  
+zmaticoo.com, 5135704, RESELLER
+appnexus.com, 17234, RESELLER
+inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
+grouprvn.com, 420212011, RESELLER
