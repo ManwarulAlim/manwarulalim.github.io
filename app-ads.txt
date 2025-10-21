@@ -39,13 +39,16 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 
 
-
 # Meta (Facebook Audience Network) 
 facebook.com, 243430289739040, RESELLER, c3e20eee3f780d68
 
 
 # Google AdMob 
 google.com, pub-2188718455944611, DIRECT, f08c47fec0942fa0
+
+
+# Chartboost
+chartboost.com, 5e528d2ae9ee8e0e17e08131, DIRECT
 
 
 # Unity Ads 
